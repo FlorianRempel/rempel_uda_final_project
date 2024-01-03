@@ -6,7 +6,7 @@ This project has been setup such that utilizing Google Colab is the preffered wa
 
 1. Open the mistral_analysis.ipynb in a Google Colab environment
 2. Upload the two documents 'dora.pdf' and 'BAIT_en.pdf' from the 'data' folder into the main directory of the Google Colab envirionment
-3. Then execute the notebooks cell by cell. 
+3. Then execute the notebook cell by cell. 
 
 ## Note: 
 
