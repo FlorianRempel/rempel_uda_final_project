@@ -10,7 +10,7 @@ This project has been setup such that utilizing Google Colab is the preffered wa
 
 ## Note: 
 
-While it may be possible to execute the notebook locally, resolving all necessary dependencies may prove challenging and the use of Google Colab is therefore strongly suggested.
+While it may be possible to execute the notebook locally (a requirments.txt has been provided), resolving all necessary dependencies may prove challenging and the use of Google Colab is therefore strongly suggested.
 
 The uda_final_project_analysis.ipynb notebook should be run locally as it expects to directly access the data-directory. 
 

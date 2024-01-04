@@ -1,0 +1,16 @@
+bitsandbytes
+transformers
+peft
+accelerate
+sentencepiece
+langchain
+farm-haystack[colab,faiss,inference]
+unstructured
+chromadb
+faiss-cpu
+pandas
+numpy
+pypdf
+matplotlib
+spacy
+wordcloud
